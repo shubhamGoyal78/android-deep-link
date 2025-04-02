@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.searchengine",
+      "sha256_cert_fingerprints": [
+        "8C:FE:28:E8:B0:86:60:84:17:EE:E2:8F:EB:E2:31:0E:79:AA:A2:D9:05:21:A7:B8:86:91:D5:BB:E1:FF:72:82"
+      ]
+    }
+  }
+]
